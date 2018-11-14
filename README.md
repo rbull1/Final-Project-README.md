@@ -6,10 +6,10 @@ README.m
 
 ##Break Points
 I used media screens on my pages. The pages have a mobile view when the min-width is 
-under 700px. When the scree is between 700px and 1000px, the page goes to a tablet view. Finally, when the page is 
-above 1000px, the page snaps to a desktop view. This is known as responsive web design. The home page has a three column 
-layout in the the desktop view with three pictures in a line. In tablet, the far right picture stacks below the top two,
-and in the mobile view all pictures stack. The schedule page resized intuitively. The final page was the most
+under 700px. When the scree is between 700px and 1000px, the page goes to a tablet view. Finally, when the page contains 
+over 1000px, it will snap to a desktop view automatically. This is known as responsive web design. The home page has a 
+three column layout in the the desktop view with three pictures in a line. In tablet, the far right picture stacks 
+below the top two,and in the mobile view all pictures stack. The schedule page resized intuitively. The final page was the most
 difficult. In the desktop view, the page has two pictures on top, three in the middle, and four along the bottom.
 In the tablet view, the page has two pictures on top, three in the middle, and the bottom row spilts into a stack 
 of two and two.
